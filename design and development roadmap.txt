@@ -7,4 +7,10 @@ design:
 
 development:
 - research best practices: audio, video and special needs
+- write captions in srt and vtt files
 - have controls keyboard accessible
+- get video and audio to have subtitles appear for people that are hard of hearing and people that speak different languages
+
+resources:
+- https://www.rev.com/blog/sdh-subtitles-for-the-deaf-and-hard-of-hearing
+- https://www.3playmedia.com/blog/whats-the-difference-subtitles-for-the-deaf-and-hard-of-hearing-sdh-v-closed-captions/#:~:text=Subtitles%20for%20the%20deaf%20and%20hard%20of%20hearing%20are%20subtitles,of%20both%20captions%20and%20subtitles.&text=While%20normal%20subtitles%20assume%20the,audio%20(like%20with%20captions)
