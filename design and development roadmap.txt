@@ -1,0 +1,10 @@
+a/v accessibility research project roadmap
+
+design:
+- simple design
+- controls
+- one movie video file, one tv show video file, 1 audio file
+
+development:
+- research best practices: audio, video and special needs
+- have controls keyboard accessible
